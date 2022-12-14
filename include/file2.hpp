@@ -1,0 +1,1 @@
+auto fn2() -> int;
